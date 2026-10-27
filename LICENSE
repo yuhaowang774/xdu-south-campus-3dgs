@@ -21,4 +21,5 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 This license covers the repository documentation and scripts only. Model
-weights are licensed separately; see MODEL_LICENSE.md.
+weights are licensed separately; see LICENSE-MODEL and the License section
+of README.md.
