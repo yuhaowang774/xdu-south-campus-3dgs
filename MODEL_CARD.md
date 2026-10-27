@@ -49,4 +49,4 @@
 
 ## 许可
 
-模型权重许可待确认，详见 [MODEL_LICENSE.md](MODEL_LICENSE.md)。仓库文档与脚本使用 MIT 许可，详见 [LICENSE](LICENSE)。
+模型权重使用 CC BY-NC 4.0（署名—非商业性使用）许可，详见 [MODEL_LICENSE.md](MODEL_LICENSE.md) 与 [LICENSE-MODEL](LICENSE-MODEL)。仓库文档与脚本使用 MIT 许可，详见 [LICENSE](LICENSE)。

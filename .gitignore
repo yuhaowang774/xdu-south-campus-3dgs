@@ -10,6 +10,9 @@ data/
 output/
 renders/
 
+# Local screenshots
+ScreenShot_*.png
+
 # OS / editor
 .DS_Store
 Thumbs.db

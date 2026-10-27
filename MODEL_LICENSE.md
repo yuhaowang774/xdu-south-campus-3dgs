@@ -1,16 +1,29 @@
-# 模型权重许可（待确认）
+# 模型权重许可：CC BY-NC 4.0
 
-本仓库发布的 `.sog` 模型权重由知天下平台训练产出。发布者尚未确认该平台服务条款中关于生成模型的所有权、再分发与商用授权。
+本仓库发布的模型权重（`xdu-south-campus-full-8.2m.sog`、`xdu-south-campus-cropped-8.0m.sog`）采用 **Creative Commons Attribution-NonCommercial 4.0 International（CC BY-NC 4.0）** 许可。
 
-在许可明确之前：
+- 完整法律文本：[LICENSE-MODEL](LICENSE-MODEL)
+- 官方文本：https://creativecommons.org/licenses/by-nc/4.0/legalcode
+- 中文摘要：https://creativecommons.org/licenses/by-nc/4.0/deed.zh-hans
 
-- 模型权重按“保留所有权利”处理，不随本仓库的 MIT 许可授权
-- 仓库文档与脚本仍适用 [LICENSE](LICENSE) 中的 MIT 许可
+## 你可以
 
-发布前建议向知天下确认以下事项，并将结论补充到本文件：
+- **共享**：以任何媒介或格式复制、发行本模型
+- **改编**：修改、转换、基于本模型进行创作
 
-1. 平台是否确认用户对训练产出的模型享有所有权
-2. 是否允许公开再分发（含 GitHub Release 下载）
-3. 是否允许商用或演绎
+## 条件
 
-确认后可替换为 CC BY 4.0（允许商用）或 CC BY-NC 4.0（仅非商用）等明确许可。
+- **署名**：注明来源、提供许可链接，并说明是否作了修改
+- **非商业**：不得将本模型用于商业目的
+- **无额外限制**：不得通过法律条款或技术措施限制他人行使许可权利
+
+## 建议署名格式
+
+> “西安电子科技大学南校区 3DGS 模型” by yuhaowang774, licensed under CC BY-NC 4.0.
+> Source: https://github.com/yuhaowang774/xdu-south-campus-3dgs
+
+## 范围说明
+
+- 本许可仅适用于模型权重，不适用于仓库中的文档与脚本；后者使用 [MIT 许可](LICENSE)。
+- CC BY-NC 4.0 不是 OSI 认可的开源软件许可，属于“开放权重、非商业使用”许可。
+- 商业使用需另行联系版权持有人获得授权。

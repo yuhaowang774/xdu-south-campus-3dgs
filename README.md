@@ -2,6 +2,8 @@
 
 西安电子科技大学南校区（Xidian University South Campus）的 3D Gaussian Splatting 重建模型，提供完整版与裁切版两个 SOG v2 文件，可直接在浏览器中查看。
 
+![西安电子科技大学南校区 3DGS 重建预览](assets/preview.jpg)
+
 > [!IMPORTANT]
 > 本项目为个人学习与研究用途的非官方发布，与西安电子科技大学官方无关，不代表学校立场。采集、发布与使用请遵守相关法律法规，模型许可状态见 [MODEL_LICENSE.md](MODEL_LICENSE.md)。
 
@@ -36,7 +38,7 @@ SOG 是 PlayCanvas SuperSplat 使用的压缩高斯泼溅格式（v2），支持
 ## 许可
 
 - 仓库内文档与脚本：MIT，见 [LICENSE](LICENSE)
-- 模型权重：待确认，见 [MODEL_LICENSE.md](MODEL_LICENSE.md)
+- 模型权重：CC BY-NC 4.0（署名—非商业性使用），见 [MODEL_LICENSE.md](MODEL_LICENSE.md) 与 [LICENSE-MODEL](LICENSE-MODEL)
 
 ## 引用
 

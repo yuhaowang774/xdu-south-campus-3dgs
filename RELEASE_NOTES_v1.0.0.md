@@ -7,4 +7,4 @@
 
 校验和见 `SHA256SUMS`。查看方式：将文件拖入 [SuperSplat](https://superspl.at/editor)。
 
-> 非西安电子科技大学官方发布。模型权重许可状态见仓库中的 `MODEL_LICENSE.md`。
+> 非西安电子科技大学官方发布。模型权重采用 CC BY-NC 4.0 许可，详见仓库中的 `MODEL_LICENSE.md`。

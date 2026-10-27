@@ -8,4 +8,5 @@ authors:
   - name: "yuhaowang774"
     alias: "yuhaowang774"
 url: "https://github.com/yuhaowang774/xdu-south-campus-3dgs"
+license: "CC-BY-NC-4.0"
 abstract: "3D Gaussian Splatting reconstruction of the Xidian University South Campus, distributed as SOG v2 files."
