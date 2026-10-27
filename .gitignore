@@ -1,0 +1,16 @@
+# Model weights are distributed as GitHub Release assets
+*.ply
+*.sog
+*.splat
+
+# Training / capture artifacts
+*.ckpt
+*.pth
+data/
+output/
+renders/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/

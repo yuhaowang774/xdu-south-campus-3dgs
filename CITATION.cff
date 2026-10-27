@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this model, please cite it as below."
+type: software
+title: "Xidian University South Campus 3D Gaussian Splatting Model"
+version: 1.0.0
+date-released: 2026-10-27
+authors:
+  - name: "yuhaowang774"
+    alias: "yuhaowang774"
+url: "https://github.com/yuhaowang774/xdu-south-campus-3dgs"
+abstract: "3D Gaussian Splatting reconstruction of the Xidian University South Campus, distributed as SOG v2 files."
