@@ -22,6 +22,8 @@ SHA-256 校验和见 [SHA256SUMS](SHA256SUMS)。
 2. 将 `.sog` 文件拖入页面，或通过 File → Import 导入。
 3. 建议先试裁切版，加载更快。
 
+也可以在知天下平台在线查看：[西安电子科技大学南校区作品页](https://3d.explorerglobal.cn/model/zl3043jl)。
+
 SOG 是 PlayCanvas SuperSplat 使用的压缩高斯泼溅格式（v2），支持该格式的 PlayCanvas 应用均可加载。
 
 ## 场景信息
